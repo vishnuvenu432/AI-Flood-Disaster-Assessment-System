@@ -94,17 +94,19 @@ Final Disaster Assessment Report
 ```text
 AI-Flood-Disaster-Assessment-System/
 │
+├── README.md
+├── requirements.txt
+│
 ├── notebook/
 │   └── AI_Based_Flood_Disaster_Assessment_System.ipynb
 │
-├── outputs/
-│   ├── flood_extent_map.png
+├── images/
 │   ├── workflow_diagram.png
-│   └── Flood_Disaster_Assessment_Report.txt
+│   ├── flood_extent_map.png
+│   └── results_dashboard.png
 │
-├── README.md
-├── requirements.txt
-└── LICENSE
+└── outputs/
+    └── Flood_Disaster_Assessment_Report.txt
 ```
 
 ---
@@ -113,15 +115,15 @@ AI-Flood-Disaster-Assessment-System/
 
 ### Flood Extent Map
 
-(Add flood extent map screenshot here)
+![Flood Extent Map](images/flood_extent_map.png)
 
 ### Workflow Diagram
 
-(Add workflow diagram image here)
+![Workflow Diagram](images/workflow_diagram.png)
 
 ### AI Disaster Assessment Report
 
-(Add report screenshot here)
+![Results Dashboard](images/results_dashboard.png)
 
 ---
 
