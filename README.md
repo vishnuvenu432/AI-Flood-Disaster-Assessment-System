@@ -1,6 +1,18 @@
-# AI-Flood-Disaster-Assessment-System
+# AI-Based Flood Disaster Assessment System
 AI-powered flood disaster assessment system using Sentinel-1 SAR, Google Earth Engine, WorldPop, ESA WorldCover, and Gemini AI.
 Overview
+---
+![Project Banner](images/project_banner.png)
+---
+---
+## Project Highlights
+
+- Automated flood detection using Sentinel-1 SAR imagery
+- Flood extent mapping and inundation analysis
+- Population exposure assessment using WorldPop
+- Land-use impact assessment using ESA WorldCover
+- AI-powered disaster assessment report generation using Gemini AI
+- End-to-end GeoAI workflow implemented in Google Earth Engine
 ---
 ##  Project Overview
 
@@ -88,6 +100,16 @@ Final Disaster Assessment Report
 * End-to-end GeoAI workflow
 
 ---
+## Installation
+
+```bash
+git clone https://github.com/vishnuvenu432/AI-Flood-Disaster-Assessment-System.git
+
+cd AI-Flood-Disaster-Assessment-System
+
+pip install -r requirements.txt
+```
+---
 
 ##  Repository Structure
 
@@ -121,10 +143,14 @@ AI-Flood-Disaster-Assessment-System/
 
 ![Workflow Diagram](images/workflow_diagram.png)
 
-### AI Disaster Assessment Report
+### Results Dashboard
 
 ![Results Dashboard](images/results_dashboard.png)
 
+### AI Disaster Assessment Report
+
+A sample AI-generated disaster assessment report is available in:
+[View AI Disaster Assessment Report](outputs/Flood_Disaster_Assessment_Report.txt)
 ---
 
 ## Future Improvements
